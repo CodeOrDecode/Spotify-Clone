@@ -27,7 +27,7 @@ Spotify is a Swedish audio streaming and media services provider founded on 23 A
 ## Features
 
 - Play & Pause Functionality
-- Implement Progress bar to see progress of song.
-- Previous & Next Functionality.
-- Interactive user Interface.
+- Implement Progress bar to see progress of song
+- Previous & Next Functionality
+- Interactive user Interface
 
